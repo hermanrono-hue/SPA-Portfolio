@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  min-height: 100vh;
+  background-color: #617d98;
+  display: flex;
+  justify-content: center;
+}
+
+.page-wrapper {
+  width: 100%;
+  max-width: 600px;
+  padding: 40px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.divider {
+  border: 0;
+  border-top: 2px solid #d1d9e6;
+  margin: 10px 0;
+}

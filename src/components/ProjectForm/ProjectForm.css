@@ -1,0 +1,25 @@
+.form-card {
+background: white;
+padding: 24px;
+border-radius: 12px;
+border: 1px solid g;
+color: rgb(34, 29, 29);
+}
+
+.input-field input, 
+.input-field textarea {
+padding: 12px;
+border: 1px solid gray;
+border-radius: 8px;
+background-color:white;
+color: black; 
+font-size: 1rem;
+width: 100%;
+box-sizing: border-box;
+}
+
+.input-field input:focus, 
+.input-field textarea:focus {
+outline: 2px solid #3182ce;
+color: black;
+}

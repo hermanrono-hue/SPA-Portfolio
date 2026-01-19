@@ -1,0 +1,12 @@
+.project-list-wrapper {
+display: flex;
+flex-direction: column;
+gap: 15px;
+padding-bottom: 40px;
+}
+
+.no-data {
+color: #49566a;
+text-align: center;
+font-style: italic;
+}
